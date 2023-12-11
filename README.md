@@ -2,4 +2,8 @@
 
 Vào danh sách sinh viên theo từng lớp -> F12 -> Console -> Paste code -> Nhận kết quả :D
 
-<h1> AV</h1>
+![alt](step1.png)
+
+![alt](step2.png)
+
+![alt](step3.png)
